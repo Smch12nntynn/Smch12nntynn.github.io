@@ -12,12 +12,12 @@ const Home = () => {
             <h2 className='text-4xl sm:text-7xl font-bold' > I'm a Full-stack Developer</h2>
             <p className='text-gray-400 py-4 max-w-[700px]'>qualified to build and sometimes design some digital projects. 
             Currently, I'm focused on building full-stack web applications with React and Node.</p>
-        <div>
+        {/* <div>
             <button className='border-2 group px-6 py-3 my-2 flex items-center hover:bg-red-700 hover:border-red-700'>
                 View Work
                 <HiArrowNarrowRight className='ml-3 group-hover:rotate-90 duration-300'/>
             </button>
-        </div>
+        </div> */}
         </div>
 
         </div>
